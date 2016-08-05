@@ -1,0 +1,25 @@
+_repo: Chimes-of-Mission-Bells--an-historical-sketch-of-California-and-her-missions_6894
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Field, Maria Antonia
+    birthdate: 1885
+    gutenberg_agent_id: '2240'
+    url: http://www.gutenberg.org/2009/agents/2240
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6894'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F850.5'
+- !lcsh 'Spanish mission buildings -- California'
+- !lcsh 'Missions -- California'
+- GITenberg
+title: Chimes of Mission Bells; an historical sketch of California and her missions
+url: http://www.gutenberg.org/ebooks/6894
