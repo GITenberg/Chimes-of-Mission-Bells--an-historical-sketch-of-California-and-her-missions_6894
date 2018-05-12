@@ -1,5 +1,8 @@
 _repo: Chimes-of-Mission-Bells--an-historical-sketch-of-California-and-her-missions_6894
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Field, Maria Antonia
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '2240'
     url: http://www.gutenberg.org/2009/agents/2240
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6894#Chimes-of-Mission-Bells--an-historical-sketch-of-California-and-her-missions
 gutenberg_bookshelf: Christianity
 gutenberg_issued: '2004-11-01'
 gutenberg_type: Text
